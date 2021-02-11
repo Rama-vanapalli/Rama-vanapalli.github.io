@@ -2,9 +2,9 @@
 
 ## Educational Details:
 
-**Branch,Year:**Computer Science Technology,1st year
+**Branch,Year:** Computer Science Technology,1st year
 
-**College name:**Sri Vasavi Engineering College
+**College name:** Sri Vasavi Engineering College
 
 ## Skills
 
